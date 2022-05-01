@@ -6,5 +6,6 @@ and you can use my exe file to read a story
 一个关于故事的软件
 你可以用我提供的开源py文件来编写你自己的故事
 你也可以用我写的exe文件来看我编写的故事
+this app is use Chinese and you can use English
 ^_^
 enjoy it
